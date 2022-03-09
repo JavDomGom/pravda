@@ -14,7 +14,7 @@
 
 ## Dependencies
 
-You can find a list of required Python modules dependencies in the [requirements.txt](https://github.com/JavDomGom/videostego/blob/main/requirements.txt).
+You can find a list of required Python modules dependencies in the [requirements.txt](https://github.com/JavDomGom/pravda/blob/main/requirements.txt).
 
 ## How to use
 
